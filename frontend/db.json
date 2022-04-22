@@ -1,0 +1,34 @@
+{
+  "countries": [
+    {
+      "country": "Irak",
+      "id": 1
+    }
+  ],
+  "cities": [
+    {
+      "city": "Jamkhandi",
+      "country": "India",
+      "population": "110000",
+      "id": 2
+    },
+    {
+      "city": "Delhi",
+      "country": "India",
+      "population": "120000",
+      "id": 3
+    },
+    {
+      "city": "EXAMBA",
+      "country": "Africa",
+      "population": "15000000",
+      "id": 4
+    },
+    {
+      "city": "arab",
+      "country": "Irak",
+      "population": "15000000",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "countries": [
+      {
+        "country": "Irak",
+        "id": 1
+      }
+    ],
+    "cities": [
+      {
+        "city": "Jamkhandi",
+        "country": "India",
+        "population": "100000",
+        "id": 2
+      },
+      {
+        "city": "Vijayapur",
+        "country": "India",
+        "population": "120000",
+        "id": 3
+      },
+      {
+        "city": "Newyork",
+        "country": "USA",
+        "population": "180000",
+        "id": 4
+      },
+      {
+        "city": "Nagasaki",
+        "country": "Japan",
+        "population": "1500000",
+        "id": 5
+      }
+    ]
+  }
